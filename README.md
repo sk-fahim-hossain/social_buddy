@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# this practice isn't hosted on netlify
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
